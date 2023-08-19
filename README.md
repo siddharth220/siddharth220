@@ -41,9 +41,13 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
+  &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React%2520-%2561DAFB.svg%3Flogo%3Dreact"/>
   </a>
 </p>
 
@@ -53,6 +57,8 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.mongodb.com/"><img alt="MongoDb" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
  </p>
   
 ### 👉Graphic Designing
