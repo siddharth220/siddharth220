@@ -46,8 +46,12 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
+  <a href="https://nodejs.org/en/about" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Node.js-%230bb53e.svg?style=flat&logo=nodedotjs&logoColor=white"/>
+  </a>
+  &emsp;
   <a href="https://react.dev/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React%2520-%2561DAFB.svg%3Flogo%3Dreact"/>
+    <img alt="React" src="https://img.shields.io/badge/React-%23147dd9.svg?style=flat&logo=react&logoColor=white"/>
   </a>
 </p>
 
@@ -58,7 +62,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDb" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-%230bb53e.svg?style=flat&logo=mongodb&logoColor=white"></a>
  </p>
   
 ### 👉Graphic Designing
@@ -67,9 +71,13 @@
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
   </a>
-    &emsp;
+  &emsp;
   <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%230b30b5.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="#">
+   <img alt="After Effects" src="https://img.shields.io/badge/After Effects-%235a0bb5.svg?style=flat&logo=adobeaftereffects&logoColor=white"/>
   </a>
  </p>
 
